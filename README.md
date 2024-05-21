@@ -19,7 +19,7 @@ This app utilizes AR technology to provide users with a visual guide to understa
 This repository is currently under development.
 
 ## Demonstration
-[Prototype 1](https://drive.google.com/drive/folders/108UH74vj3_pRrwTnWDGTwkIHQ6TKgYV_)
+[Link for Prototype 1](https://drive.google.com/drive/folders/108UH74vj3_pRrwTnWDGTwkIHQ6TKgYV_)
 
 ## License
 This project is licensed under the [MIT License](https://github.com/31Sanskrati/Health-Harbor-AR-app/blob/main/LICENSE).
